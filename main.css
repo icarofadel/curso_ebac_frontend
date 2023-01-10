@@ -121,3 +121,18 @@ section h2{
 #tecnologia .article article a{
     background-color: #4B0082;
 }
+#entretenimento {
+    background-color: aqua;
+}
+
+#entretenimento .article article a{
+    background-color: #6495ED
+}
+
+#tecnologia {
+    background-color: #7B68EE;
+}
+
+#tecnologia .article article a{
+    background-color: #4B0082;
+}
