@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    padding-top: 10%;
+    justify-content: center;
+}
+
+header h1{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+form{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    font-size: 25px;
+    padding: 8px;
+}
+
+button{
+    font-size: 25px;
+    padding: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.container{
+    max-width: 300px;
+    margin: auto;
+}
+
+li{
+    font-size: 30px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.aplica-estilo{
+    text-decoration: line-through;
+}
